@@ -298,7 +298,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <section className="section bg-secondary">
+          {/* <section className="section bg-secondary">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col md="6">
@@ -368,9 +368,9 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section>
-          <section className="section pb-0 bg-gradient-warning">
-            <Container>
+          </section> */}
+          {/* <section className="section pb-0 bg-gradient-warning"> */}
+            {/* <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-lg-2 ml-lg-auto" md="6">
                   <div className="position-relative pl-md-5">
@@ -387,8 +387,8 @@ class Landing extends React.Component {
                       <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                         <i className="ni ni-building text-primary" />
                       </div>
-                    </div>
-                    <div className="pl-4">
+                    </div> */}
+                    {/* <div className="pl-4">
                       <h4 className="display-3 text-white">Modern Interface</h4>
                       <p className="text-white">
                         The Arctic Ocean freezes every winter and much of the
@@ -396,8 +396,8 @@ class Landing extends React.Component {
                         continue whatever.
                       </p>
                     </div>
-                  </div>
-                  <Card className="shadow shadow-lg--hover mt-5">
+                  </div> */}
+                  {/* <Card className="shadow shadow-lg--hover mt-5">
                     <CardBody>
                       <div className="d-flex px-3">
                         <div>
@@ -452,12 +452,12 @@ class Landing extends React.Component {
                         </div>
                       </div>
                     </CardBody>
-                  </Card>
-                </Col>
+                  </Card> */}
+                {/* </Col>
               </Row>
-            </Container>
+            </Container> */}
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -472,9 +472,9 @@ class Landing extends React.Component {
                 />
               </svg>
             </div>
-          </section>
+          </section> */}
           <section className="section section-lg">
-            <Container>
+            {/* <Container>
               <Row className="justify-content-center text-center mb-lg">
                 <Col lg="8">
                   <h2 className="display-3">The amazing Team</h2>
@@ -526,8 +526,8 @@ class Landing extends React.Component {
                         </Button>
                       </div>
                     </div>
-                  </div>
-                </Col>
+                  </div> */}
+                {/* </Col>
                 <Col className="mb-5 mb-lg-0" lg="3" md="6">
                   <div className="px-4">
                     <img
@@ -657,10 +657,10 @@ class Landing extends React.Component {
                   </div>
                 </Col>
               </Row>
-            </Container>
+            </Container> */}
           </section>
           <section className="section section-lg pt-0">
-            <Container>
+            {/* <Container>
               <Card className="bg-gradient-warning shadow-lg border-0">
                 <div className="p-5">
                   <Row className="align-items-center">
@@ -688,12 +688,12 @@ class Landing extends React.Component {
                   </Row>
                 </div>
               </Card>
-            </Container>
+            </Container> */}
           </section>
           <section className="section section-lg bg-gradient-default">
             <Container className="pt-lg pb-300">
               <Row className="text-center justify-content-center">
-                <Col lg="10">
+                {/* <Col lg="10">
                   <h2 className="display-3 text-white">Build something</h2>
                   <p className="lead text-white">
                     According to the National Oceanic and Atmospheric
@@ -723,8 +723,8 @@ class Landing extends React.Component {
                     Some quick example text to build on the card title and make
                     up the bulk of the card's content.
                   </p>
-                </Col>
-                <Col lg="4">
+                </Col> */}
+                {/* <Col lg="4">
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                     <i className="ni ni-atom text-primary" />
                   </div>
@@ -733,11 +733,11 @@ class Landing extends React.Component {
                     Some quick example text to build on the card title and make
                     up the bulk of the card's content.
                   </p>
-                </Col>
+                </Col> */}
               </Row>
             </Container>
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -751,7 +751,7 @@ class Landing extends React.Component {
                   points="2560 0 2560 100 0 100"
                 />
               </svg>
-            </div>
+            </div> */}
           </section>
           <section className="section section-lg pt-lg-0 section-contact-us">
             <Container>
